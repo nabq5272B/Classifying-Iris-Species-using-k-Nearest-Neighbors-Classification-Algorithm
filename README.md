@@ -33,7 +33,7 @@ Mglearn:
 ```
   conda install mglearn
 ```
-These are required Python ML libraries we need to install.
+These are the required Python ML libraries we need to install.
     
 ## :magnet: Demo
 
