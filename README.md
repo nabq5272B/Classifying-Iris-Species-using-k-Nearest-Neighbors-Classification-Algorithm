@@ -1,7 +1,7 @@
 
 #  :cherry_blossom: Classifying Iris Species using k-Nearest Neighbors Classification Algorithm
 
-Iris is a genus of 260–300 species of flowering plants with showy flowers. Each species of iris plant has its own classifying characteristics. In this project, we build a model in order to classify three iris species which are setosa, versicolor, and virginica on the basis on its sepal length, sepal width, petal length and petal width. The algorithm we used here is k-Nearest Classification Algorithm. 
+Iris is a genus of 260–300 species of flowering plants with showy flowers. Each species of iris plant has its own classifying characteristics. In this project, we have built a model in order to classify three iris species which are *setosa*, *versicolor*, and *virginica* on the basis of its sepal length, sepal width, petal length and petal width. The algorithm we used here is k-Nearest Classification Algorithm. 
 
 ## Installation
 
@@ -42,7 +42,7 @@ Here is the pair plot of the dataset:
 ![](plot.png)
 
 Example of implementation:
-```
+```python
 # Making Predictions
 # Suppose we get an iris with:
 # sepal length = 5cm
